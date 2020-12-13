@@ -21,3 +21,7 @@ biological characteristics like the baby's sex, race, age of mother
 and father, weight gained by the mother during pregnancy to 
 behavioral characteristics like smoking and drinking habits of the 
 mother, the education and living conditions of the parents.
+
+## Data Sources
+Google Public Dataset: bigquery-public-data. Samples.natality.
+Using Google Cloud Bigquery Python API , extract the data into Data frame and perform the analysis.
