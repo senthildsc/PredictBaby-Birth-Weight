@@ -1,9 +1,6 @@
 '''
-File              : DSC_630_CourseProject.py
 Name              : Senthilraj Srirangan
 Date              : 05/20/2020
-Assignment Number : 12.2 Course project : Milestone5--Final Project Paper.
-Course            : DSC 630 - Predictive Analytics
 Exercise Details  :
 Course Presentation
 Course Final paper.
